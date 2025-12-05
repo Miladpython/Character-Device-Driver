@@ -4,30 +4,11 @@ This project shows how Linux user-space communicates with kernel-space using a c
 
 **Project Structure**
 
-## 📁 Project Structure
+## Project Structure
 
-- main.c       # User-space application
-- layers.h     # Header file defining layer structures and function prototypes
-- layers.c     # Implementation of OS/communication layers
-- Makefile     # Build rules for compiling the project
 
   <img width="1536" height="1024" alt="project" src="https://github.com/user-attachments/assets/c8c5895b-17cf-42cc-aa3e-023c3d491cf9" />
 
-  
-**Communication Flow Diagram**
-
-User App (user_app.c)
-        |
-        | open(), read(), write()
-        v
-Linux System Call Interface
-        |
-        v
-Character Device Driver (mychardev.c)
-        |
-        | copy_to_user() / copy_from_user()
-        v
-Kernel Space
 
 ## Build
 
